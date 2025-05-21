@@ -6,7 +6,7 @@ I'm **xtralvl**, a **Frontend Developer** from **Hungary** 🇭🇺
 
 🎯 My goal is to work on **meaningful, visually engaging web projects**, ideally related to **nature**, **travel**, **history**, or **extreme sports**.
 
-🌍 In the future, I plan to **move to Andalusia, Spain** 🇪🇸.
+🌍 In the future, I plan to **move to Andalusia, Spain** 🇪🇸
 
 🛠️ I'm currently working on:
 - My **personal portfolio website**
