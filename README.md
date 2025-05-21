@@ -1,18 +1,32 @@
-## 👋 Hi there,
+<h1 align="center">👋 Hi, I'm xtralvl</h1>
 
-I'm **xtralvl**, a **Frontend Developer** from **Hungary** 🇭🇺
+<p align="center">
+  <strong>Frontend Developer</strong> from <strong>Hungary</strong> 🇭🇺 <br>
+  Passionate about creating clean, interactive, and meaningful websites 🌿
+</p>
 
-🎓 I’m currently self-learning on **Codecademy**, practicing on **Codewars** and building multiple projects from the **Frontend Mentor** platform, to prepare for a **full-time frontend course starting in July 2025**.
-
-🎯 My goal is to work on **meaningful, visually engaging web projects**, ideally related to **nature**, **travel**, **history**, or **extreme sports**.
-
-🌍 In the future, I plan to **move to Andalusia, Spain** 🇪🇸
-
-🛠️ I'm currently working on:
-- My **personal portfolio website**
-- Projects from the **Frontend Mentor** platform
-  
 ---
 
-📬 **You can reach me at:**  
-📧 [rolandszucs.private@gmail.com](mailto:rolandszucs.private@gmail.com)
+### 🚀 About Me
+
+- 🎓 Currently self-learning on [Codecademy](https://www.codecademy.com), sharpening skills on [Codewars](https://www.codewars.com), and building real projects via [Frontend Mentor](https://www.frontendmentor.io/)
+- 💻 Preparing for a **full-time frontend course** starting **July 2025**
+- 🧭 Passionate about **nature**, **travel**, **history**, and **extreme sports**
+- 🌍 Planning to move to **Andalusia, Spain** 🇪🇸 for a remote developer lifestyle
+
+---
+
+### 🔧 Currently Working On
+
+- 🌐 My **personal portfolio website**
+- 💡 Frontend challenges from **Frontend Mentor**
+
+---
+
+### 📬 Contact Me
+
+<p>
+  🌍 <a href="https://personalwebsitextralvl.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/roland-szucs-338222273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a><br>
+  📧 <a href="mailto:rolandszucs.private@gmail.com">rolandszucs.private@gmail.com</a><br>
+</p>
