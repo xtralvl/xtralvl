@@ -11,7 +11,7 @@ I'm **xtralvl**, a **Frontend Developer** from **Hungary** 🇭🇺
 🛠️ I'm currently working on:
 - My **personal portfolio website**
 - Projects from the **Frontend Mentor** platform
-- 
+  
 ---
 
 📬 **You can reach me at:**  
