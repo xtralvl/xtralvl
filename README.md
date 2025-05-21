@@ -14,44 +14,5 @@ I'm **xtralvl**, a **Frontend Developer** from **Hungary** 🇭🇺
 
 ---
 
-### 💡 Skills & Tools (so far)
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-- **Git & GitHub**
-- **Accessibility (A11Y)**
-- **Agile Methodologies**
-- **Jira & Confluence**
-- **Photoshop**
-- **Netlify**
-
----
-
-### 🔮 Skills I'm planning to learn
-- **SCSS / Sass**
-- **TypeScript**
-- **Angular**
-- **React**
-- **Vue**
-- **Jest**
-- **RxJS**
-- **Vite**
-- **JSON**
-- **Postman**
-- **REST API**
-- **GitLab**
-- **Firebase / Firestore**
-- **Bootstrap**
-- **AWS & Azure**
-- **CI/CD Pipelines**
-- **UX/UI Design**
-- **Figma**
-- **GraphQL**
-- **MVC / MVVM**
-- **Google Analytics**
-- **Docker**
-
----
-
 📬 **You can reach me at:**  
 📧 [rolandszucs.private@gmail.com](mailto:rolandszucs.private@gmail.com)
