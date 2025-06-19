@@ -11,7 +11,7 @@
 
 - 🎓 Currently self-learning on [Codecademy](https://www.codecademy.com), sharpening skills on [Codewars](https://www.codewars.com), and building real projects via [Frontend Mentor](https://www.frontendmentor.io/)
 - 💻 Preparing for a **full-time frontend course** starting **July 2025**
-- 🧭 Passionate about **nature**, **travel**, **history**, and **extreme sports**
+- 🧭 Passionate about **nature**, **adventure**, **history**, and **extreme sports**
 
 ---
 
