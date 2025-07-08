@@ -24,7 +24,7 @@
 
 ### 📺 My YouTube Channel
 
-- 🎥 [@xtralvl on YouTube](https://youtube.com/@xtralvl?si=ARheLo58FnjZJftt) — tech, creativity & more coming soon!
+- 🎥 [@xtralvl](https://youtube.com/@xtralvl?si=ARheLo58FnjZJftt)
 
 ---
 
