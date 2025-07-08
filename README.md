@@ -17,7 +17,6 @@
 
 ### 🔧 Currently Working On
 
-- 🌐 My **personal portfolio website**
 - 💡 Frontend challenges from **Frontend Mentor**
 
 ---
