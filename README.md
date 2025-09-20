@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Frontend Developer</strong> from <strong>Hungary</strong> 🇭🇺 <br>
-  Passionate about creativity, innovation, the outdoors and creating clean, interactive meaningful websites and 🌿
+  Passionate about creativity, innovation, the outdoors and creating clean, interactive and meaningful websites 🌿
 </p>
 
 ---
