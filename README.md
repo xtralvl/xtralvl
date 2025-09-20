@@ -2,22 +2,22 @@
 
 <p align="center">
   <strong>Frontend Developer</strong> from <strong>Hungary</strong> 🇭🇺 <br>
-  Passionate about creativity, innovation and creating clean, interactive meaningful websites 🌿
+  Passionate about creativity, innovation, the outdoors and creating clean, interactive meaningful websites and 🌿
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Currently self-learning on [Codecademy](https://www.codecademy.com), sharpening skills on [Codewars](https://www.codewars.com), and building real projects via [Frontend Mentor](https://www.frontendmentor.io/)
-- 💻 Preparing for a **full-time frontend course** starting **September 2025**
-- 🧭 Passionate about **nature**, **adventure**, **history**, and **extreme sports**
+- 🎓 Self-learner on [Codecademy](https://www.codecademy.com) and building real projects via [Frontend Mentor](https://www.frontendmentor.io/)
+- 🧭 Passionate about **innovations**, **psychology and critical thinking**, **nature**, **adventure**, **history**, and **extreme sports**.
 
 ---
 
 ### 🔧 Currently Working On
 
-- 💡 Frontend challenges from **Frontend Mentor**
+- Frontend challenges from **Frontend Mentor**
+- **My own Self-development application**
 
 ---
 
