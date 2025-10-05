@@ -59,7 +59,6 @@ Outdoor-inspired coding content and self-development insights
 <div align="center">
 
 💬 *“Pushing Limits — In Code and Life.”*  
-🌌 *Xtralvl | Your Growth. Captured. Logged.*
 
 ---
 
