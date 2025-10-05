@@ -51,7 +51,7 @@ Outdoor-inspired coding content and self-development insights
 
 <a href="https://www.linkedin.com/in/rolandszucs-webdev/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>  
+</a>  <br>
 📧 <a href="mailto:rolandszucs.private@gmail.com">rolandszucs.private@gmail.com</a>
 
 ---
