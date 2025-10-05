@@ -18,9 +18,9 @@ Blending <em>extreme outdoor exploration</em> with <em>modern web development</e
 
 | Project | Description | Live Demo |
 |----------|--------------|-----------|
-| 🧭 XtraLvl journal | Log your outdoor adventures and skill growth | *(coming soon)* |
-| 🗺️ National Park & Museums | Find National Parks and Museum in any country based on your preferences | *(coming soon)* |
-| 💯 XtraLvl App | A fullstack gamified self-development app with React, TS and AWS where the user can develop and learn new skills and reach new milestones as they gain XPs  | *(coming soon)* |
+| 🧭 **Xtralvl Journal** | Log your outdoor adventures and skill growth | *(coming soon)* |
+| 🗺️ **National Parks & Museums Finder** | Discover national parks and museums worldwide based on your preferences | *(coming soon)* |
+| 💯 **Xtralvl App** | A fullstack gamified self-development app (React, TS, AWS) where users develop new skills and earn XP to reach milestones | *(coming soon)* |
 
 ---
 
@@ -35,8 +35,8 @@ Blending <em>extreme outdoor exploration</em> with <em>modern web development</e
 
 ### 🔧 Currently Working On
 
-- Frontend challenges from **Frontend Mentor**
-- Building **Xtralvl Journal** — my self-development & adventure tracking app
+- 💻 Frontend challenges from **Frontend Mentor**  
+- 🪓 Building **Xtralvl Journal** — my self-development & adventure tracking app  
 
 ---
 
@@ -51,8 +51,7 @@ Outdoor-inspired coding content and self-development insights
 
 <a href="https://www.linkedin.com/in/rolandszucs-webdev/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<br>
+</a>  
 📧 <a href="mailto:rolandszucs.private@gmail.com">rolandszucs.private@gmail.com</a>
 
 ---
@@ -62,5 +61,9 @@ Outdoor-inspired coding content and self-development insights
 💬 *“Pushing Limits — In Code and Life.”*  
 🌌 *Xtralvl | Your Growth. Captured. Logged.*
 
+---
+
+<!-- 🖼️ COVER IMAGE -->
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/xtralvl-cover.png" alt="Xtralvl - Pushing Limits in Code and Life" width="100%"/>
 
 </div>
