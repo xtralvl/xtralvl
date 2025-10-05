@@ -62,7 +62,4 @@ Outdoor-inspired coding content and self-development insights
 
 ---
 
-<!-- 🖼️ COVER IMAGE -->
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/xtralvl-cover.png" alt="Xtralvl - Pushing Limits in Code and Life" width="100%"/>
-
 </div>
