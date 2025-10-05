@@ -18,9 +18,9 @@ Blending <em>extreme outdoor exploration</em> with <em>modern web development</e
 
 | Project | Description | Live Demo |
 |----------|--------------|-----------|
-| 🧭 Adventure Log | Log your outdoor adventures and skill growth | *(coming soon)* |
-| 🪓 Skill Tracker | Track and visualize personal skill development | *(coming soon)* |
-| 🧠 Focus Journal | A minimalist tool for self-improvement reflection | *(coming soon)* |
+| 🧭 XtraLvl journal | Log your outdoor adventures and skill growth | *(coming soon)* |
+| 🗺️ National Park & Museums | Find National Parks and Museum in any country based on your preferences | *(coming soon)* |
+| 💯 XtraLvl App | A fullstack gamified self-development app with React, TS and AWS where the user can develop and learn new skills and reach new milestones as they gain XPs  | *(coming soon)* |
 
 ---
 
