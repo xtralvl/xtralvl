@@ -58,7 +58,7 @@ Outdoor-inspired coding content and self-development insights
 
 <div align="center">
 
-💬 *“Pushing Limits — In Code and Life.”*  
+💬 *“Per aspera, ad astra.”*  
 
 ---
 
