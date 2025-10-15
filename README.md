@@ -24,6 +24,12 @@ Blending <em>extreme outdoor exploration</em> with <em>modern web development</e
 
 ---
 
+### 🌟 Some Other Projects
+
+🧭 **Clock App** | This application displays the current time, date, and location and some additional data, along with a random inspirational quote. | [code](https://github.com/xtralvl/Clock-app) | [live](https://clock-app-frontend-mentor-xtralvl.netlify.app/) |
+
+---
+
 ### 🚀 About Me
 
 - 🎓 Lifelong learner on [Codecademy](https://www.codecademy.com)  
