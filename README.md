@@ -18,7 +18,7 @@ Blending <em>extreme outdoor exploration</em> with <em>modern web development</e
 
 | Project | Description | Live Demo |
 |----------|--------------|-----------|
-| 🧭 **Xtralvl Journal** | Log your outdoor adventures and skill growth | *(coming soon)* |
+| 🧭 **Xtralvl Journal** | Log your outdoor adventures and skill growth | [see the project here](https://github.com/xtralvl/Xtralvl_Journal) |
 | 🗺️ **National Parks & Museums Finder** | Discover national parks and museums worldwide based on your preferences | *(coming soon)* |
 | 💯 **Xtralvl App** | A fullstack gamified self-development app (React, TS, AWS) where users develop new skills and earn XP to reach milestones | *(coming soon)* |
 
