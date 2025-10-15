@@ -7,7 +7,7 @@
 
 <h1>🏔️ Hi, I'm <strong>Xtralvl</strong></h1>
 
-<p><strong>Frontend Developer</strong> from <strong>Hungary</strong> 🇭🇺  
+<p><strong>Frontend Developer</strong> from <strong>Hungary</strong> 🇭🇺  <br>
 Blending <em>extreme outdoor exploration</em> with <em>modern web development</em> — pushing limits both in life and in code. 🌲💻</p>
 
 </div>
