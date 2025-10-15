@@ -26,7 +26,11 @@ Blending <em>extreme outdoor exploration</em> with <em>modern web development</e
 
 ### 🌟 Some Other Projects
 
-🧭 **Clock App** | This application displays the current time, date, and location and some additional data, along with a random inspirational quote. | [code](https://github.com/xtralvl/Clock-app) | [live](https://clock-app-frontend-mentor-xtralvl.netlify.app/) |
+🕒 **Clock App** | This SPA displays the current time, date, and location and some additional data, along with a random inspirational quote. | [code](https://github.com/xtralvl/Clock-app) | [live](https://clock-app-frontend-mentor-xtralvl.netlify.app/) |
+
+🎮 **Tic Tac Toe Game** | A modern, responsive version of the classic Tic Tac Toe game. | [code](https://github.com/xtralvl/Tic-Tac-Toe-game) | [live](https://tic-tac-toe-game-xtralvl.netlify.app/) |
+
+📏 **BMI Calculator** | A responsive and accessible BMI calculator using semantic . | [code](https://github.com/xtralvl/BMI-calculator) | [live](https://bmi-calculator-xtralvl.netlify.app/) |
 
 ---
 
