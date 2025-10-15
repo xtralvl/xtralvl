@@ -53,13 +53,6 @@ A responsive and accessible BMI calculator using semantic . | [code](https://git
 
 ---
 
-### 📺 My YouTube Channel
-
-🎥 [@xtralvl](https://youtube.com/@xtralvl?si=ARheLo58FnjZJftt) —  
-Outdoor-inspired coding content and self-development insights
-
----
-
 ### 📬 Contact Me
 
 <a href="https://www.linkedin.com/in/rolandszucs-webdev/" target="_blank">
