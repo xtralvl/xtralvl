@@ -55,7 +55,7 @@ A modern and accessible digital banking landing page built as a solution to a Fr
 ### 🔧 Currently Working On
 
 - 💻 Frontend challenges from **Frontend Mentor**  
-- 🪓 Building **Xtralvl Journal** — my self-development & adventure tracking app  
+- 🪓 Building **Heritago**  
 
 ---
 
