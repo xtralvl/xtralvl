@@ -33,7 +33,7 @@ This SPA displays the current time, date, and location and some additional data,
 A modern, responsive version of the classic Tic Tac Toe game. | [code](https://github.com/xtralvl/Tic-Tac-Toe-game) | [live](https://tic-tac-toe-game-xtralvl.netlify.app/) |
 
 📏 **BMI Calculator** <br>
-A responsive and accessible BMI calculator using semantic. | [code](https://github.com/xtralvl/BMI-calculator) | [live](https://bmi-calculator-xtralvl.netlify.app/) |
+A responsive and accessible BMI calculator using semantic HTML tags. | [code](https://github.com/xtralvl/BMI-calculator) | [live](https://bmi-calculator-xtralvl.netlify.app/) |
 
 **Landing Page - Digital Banking** <br>
 A modern and accessible digital banking landing page built as a solution to a Frontend Mentor Challenge. | [code](https://github.com/xtralvl/Digital-bank-landing-page) | [live](https://digital-bank-landing-page-xtralvl.netlify.app/) |
