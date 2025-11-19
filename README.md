@@ -37,10 +37,10 @@ A modern, responsive version of the classic Tic Tac Toe game. | [code](https://g
 A responsive and accessible BMI calculator using semantic HTML tags. | [code](https://github.com/xtralvl/BMI-calculator) | [live](https://bmi-calculator-xtralvl.netlify.app/) |
 
 **Landing Page - Digital Banking** <br>
-A modern and accessible digital banking landing page built as a solution to a Frontend Mentor Challenge. | [code](https://github.com/xtralvl/Digital-bank-landing-page) | [live](https://digital-bank-landing-page-xtralvl.netlify.app/) |
+A modern, static and accessible digital banking landing page built as a solution to a Frontend Mentor Challenge. | [code](https://github.com/xtralvl/Digital-bank-landing-page) | [live](https://digital-bank-landing-page-xtralvl.netlify.app/) |
 
 **Landing Page - Sunnyside Agency** <br>
-A modern and accessible digital banking landing page built as a solution to a Frontend Mentor Challenge. | [code](https://github.com/xtralvl/Sunnyside-Agency-landing-page) | [live](https://sunnyside-agency-xtralvl.netlify.app/) |
+A modern, static and accessible digital banking landing page built as a solution to a Frontend Mentor Challenge. | [code](https://github.com/xtralvl/Sunnyside-Agency-landing-page) | [live](https://sunnyside-agency-xtralvl.netlify.app/) |
 
 ---
 
