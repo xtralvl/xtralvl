@@ -22,8 +22,6 @@ Now, I’m shifting my focus toward <strong>UX/UI design</strong> and <strong>cu
 |----------|--------------|-----------|-----------|
 | 🧭 **Xtralvl Journal** | Log your outdoor adventures and skill growth | [code](https://github.com/xtralvl/Xtralvl_Journal) | [live](https://main.d75ibv00sviwk.amplifyapp.com/) |
 | 🗺️ **Heritago** | Discover national parks and UNESCO World Heritages worldwide based on your preferences | [code](https://github.com/xtralvl/Heritago.git) | [live](https://heritago.netlify.app/) |
-| 💯 **Xtralvl App** | A gamified self-development app, where users develop new skills and earn XP to reach milestones | *(coming soon)* |
-
 ---
 
 ### 🌟 Some Other Projects
