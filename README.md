@@ -8,9 +8,10 @@
 
 <h1>🏔️ Hi, I'm <strong>Xtralvl</strong></h1>
 
-<p><strong>Former Frontend Developer</strong> from <strong>Hungary</strong> 🇭🇺  <br>
-This GitHub has been a great journey — I learned a lot, solved problems, and built meaningful projects.  
-Now, I’m shifting my focus toward <strong>UX/UI design</strong> and <strong>customer experience</strong>, exploring how visuals and interactions shape user behavior. 🌲💻</p>
+<p><strong>Frontend Developer</strong> from <strong>Hungary</strong> 🇭🇺  <br>
+This GitHub documents my journey in web development — building projects, solving problems, and constantly learning.  
+While I continue growing as a <strong>frontend developer</strong>, I’m also expanding into <strong>UX/UI design</strong> to create more thoughtful, user-centered digital experiences. 🌲💻  
+</p>
 
 </div>
 
@@ -22,6 +23,9 @@ Now, I’m shifting my focus toward <strong>UX/UI design</strong> and <strong>cu
 |----------|--------------|-----------|-----------|
 | 🧭 **Xtralvl Journal** | Log your outdoor adventures and skill growth | [code](https://github.com/xtralvl/Xtralvl_Journal) | [live](https://main.d75ibv00sviwk.amplifyapp.com/) |
 | 🗺️ **Heritago** | Discover national parks and UNESCO World Heritages worldwide based on your preferences | [code](https://github.com/xtralvl/Heritago.git) | [live](https://heritago.netlify.app/) |
+| 🏔️ **Trekon** | Discover national parks and UNESCO World Heritages worldwide based on your preferences | *Under development* |
+
+
 ---
 
 ### 🌟 Some Other Projects
@@ -32,9 +36,9 @@ Now, I’m shifting my focus toward <strong>UX/UI design</strong> and <strong>cu
 
 📏 **BMI Calculator** | A responsive and accessible BMI calculator using semantic HTML. | [code](https://github.com/xtralvl/BMI-calculator) | [live](https://bmi-calculator-xtralvl.netlify.app/)  
 
-**Landing Page - Digital Banking** | Modern and accessible static landing page built for a Frontend Mentor challenge. | [code](https://github.com/xtralvl/Digital-bank-landing-page) | [live](https://digital-bank-landing-page-xtralvl.netlify.app/)  
+**Landing Page – Digital Banking** | Modern and accessible landing page built for a Frontend Mentor challenge. | [code](https://github.com/xtralvl/Digital-bank-landing-page) | [live](https://digital-bank-landing-page-xtralvl.netlify.app/)  
 
-**Landing Page - Sunnyside Agency** | Another Frontend Mentor challenge project. | [code](https://github.com/xtralvl/Sunnyside-Agency-landing-page) | [live](https://sunnyside-agency-xtralvl.netlify.app/)  
+**Landing Page – Sunnyside Agency** | Another Frontend Mentor challenge project. | [code](https://github.com/xtralvl/Sunnyside-Agency-landing-page) | [live](https://sunnyside-agency-xtralvl.netlify.app/)  
 
 ---
 
@@ -42,14 +46,16 @@ Now, I’m shifting my focus toward <strong>UX/UI design</strong> and <strong>cu
 
 - 🎓 Lifelong learner on [Codecademy](https://www.codecademy.com)  
   and builder of real-world apps via [Frontend Mentor](https://www.frontendmentor.io/)
-- 🧭 Passionate about **UX/UI design**, **visual storytelling**, **nature**, **adventure**, and **extreme sports**
+- 🧭 Passionate about **frontend development**, **UX/UI**,  
+  **design thinking**, **nature**, **adventure**, and **extreme sports**
 
 ---
 
 ### 🔧 Currently Focusing On
 
-- 🎨 Transitioning to **UX/UI design** and **customer experience**
-- 🪓 Continuing personal projects in **design and product thinking**
+- 💻 Leveling up as a **Frontend Developer**
+- 🎨 Developing skills in **UX/UI design** and **user behavior**
+- 🪓 Building **Heritago** and experimenting with new ideas
 
 ---
 
