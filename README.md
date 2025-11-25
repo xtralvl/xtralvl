@@ -55,7 +55,7 @@ While I continue growing as a <strong>frontend developer</strong>, I’m also ex
 
 - 💻 Leveling up as a **Frontend Developer**
 - 🎨 Developing skills in **UX/UI design** and **user behavior**
-- 🪓 Building **Heritago** and experimenting with new ideas
+- 🪓 Building **Heritago** and **Trekon** and experimenting with new ideas
 
 ---
 
