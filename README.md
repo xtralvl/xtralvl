@@ -8,8 +8,9 @@
 
 <h1>🏔️ Hi, I'm <strong>Xtralvl</strong></h1>
 
-<p><strong>Frontend Developer</strong> from <strong>Hungary</strong> 🇭🇺  <br>
-Blending <em>extreme outdoor exploration</em> with <em>modern web development</em> — pushing limits both in life and in code. 🌲💻</p>
+<p><strong>Former Frontend Developer</strong> from <strong>Hungary</strong> 🇭🇺  <br>
+This GitHub has been a great journey — I learned a lot, solved problems, and built meaningful projects.  
+Now, I’m shifting my focus toward <strong>UX/UI design</strong> and <strong>customer experience</strong>, exploring how visuals and interactions shape user behavior. 🌲💻</p>
 
 </div>
 
@@ -20,27 +21,22 @@ Blending <em>extreme outdoor exploration</em> with <em>modern web development</e
 | Project | Description | Code | Live Demo |
 |----------|--------------|-----------|-----------|
 | 🧭 **Xtralvl Journal** | Log your outdoor adventures and skill growth | [code](https://github.com/xtralvl/Xtralvl_Journal) | [live](https://main.d75ibv00sviwk.amplifyapp.com/) |
-| 🗺️ **Heritago** | Discover national parks and UNESCO World Heritages worldwide based on your preferences | [code](https://github.com/xtralvl/Heritago.git) | *(under development)* |
+| 🗺️ **Heritago** | Discover national parks and UNESCO World Heritages worldwide based on your preferences | [code](https://github.com/xtralvl/Heritago.git) | [live](https://heritago.netlify.app/) |
 | 💯 **Xtralvl App** | A gamified self-development app, where users develop new skills and earn XP to reach milestones | *(coming soon)* |
 
 ---
 
 ### 🌟 Some Other Projects
 
-🕒 **Clock App** <br>
-This SPA displays the current time, date, and location and some additional data, along with a random inspirational quote. | [code](https://github.com/xtralvl/Clock-app) | [live](https://clock-app-frontend-mentor-xtralvl.netlify.app/) |
+🕒 **Clock App** | Displays the current time, date, location, and a random inspirational quote. | [code](https://github.com/xtralvl/Clock-app) | [live](https://clock-app-frontend-mentor-xtralvl.netlify.app/)  
 
-🎮 **Tic Tac Toe Game** <br>
-A modern, responsive version of the classic Tic Tac Toe game. | [code](https://github.com/xtralvl/Tic-Tac-Toe-game) | [live](https://tic-tac-toe-game-xtralvl.netlify.app/) |
+🎮 **Tic Tac Toe Game** | A modern, responsive version of the classic game. | [code](https://github.com/xtralvl/Tic-Tac-Toe-game) | [live](https://tic-tac-toe-game-xtralvl.netlify.app/)  
 
-📏 **BMI Calculator** <br>
-A responsive and accessible BMI calculator using semantic HTML tags. | [code](https://github.com/xtralvl/BMI-calculator) | [live](https://bmi-calculator-xtralvl.netlify.app/) |
+📏 **BMI Calculator** | A responsive and accessible BMI calculator using semantic HTML. | [code](https://github.com/xtralvl/BMI-calculator) | [live](https://bmi-calculator-xtralvl.netlify.app/)  
 
-**Landing Page - Digital Banking** <br>
-A modern, static and accessible digital banking landing page built as a solution to a Frontend Mentor Challenge. | [code](https://github.com/xtralvl/Digital-bank-landing-page) | [live](https://digital-bank-landing-page-xtralvl.netlify.app/) |
+**Landing Page - Digital Banking** | Modern and accessible static landing page built for a Frontend Mentor challenge. | [code](https://github.com/xtralvl/Digital-bank-landing-page) | [live](https://digital-bank-landing-page-xtralvl.netlify.app/)  
 
-**Landing Page - Sunnyside Agency** <br>
-A modern, static and accessible digital banking landing page built as a solution to a Frontend Mentor Challenge. | [code](https://github.com/xtralvl/Sunnyside-Agency-landing-page) | [live](https://sunnyside-agency-xtralvl.netlify.app/) |
+**Landing Page - Sunnyside Agency** | Another Frontend Mentor challenge project. | [code](https://github.com/xtralvl/Sunnyside-Agency-landing-page) | [live](https://sunnyside-agency-xtralvl.netlify.app/)  
 
 ---
 
@@ -48,14 +44,14 @@ A modern, static and accessible digital banking landing page built as a solution
 
 - 🎓 Lifelong learner on [Codecademy](https://www.codecademy.com)  
   and builder of real-world apps via [Frontend Mentor](https://www.frontendmentor.io/)
-- 🧭 Passionate about **innovation**, **psychology**, **critical thinking**,  
-  **nature**, **adventure**, and **extreme sports**
+- 🧭 Passionate about **UX/UI design**, **visual storytelling**, **nature**, **adventure**, and **extreme sports**
 
 ---
 
-### 🔧 Currently Working On
+### 🔧 Currently Focusing On
 
-- 🪓 Building **Heritago**  
+- 🎨 Transitioning to **UX/UI design** and **customer experience**
+- 🪓 Continuing personal projects in **design and product thinking**
 
 ---
 
