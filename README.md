@@ -45,7 +45,7 @@ I'm currently refreshing my low-/no-code knowledge, learning <strong>SEO</strong
 📏 **BMI Calculator** — Accessible & responsive calculator.  
 [code](https://github.com/xtralvl/BMI-calculator) • [live](https://bmi-calculator-xtralvl.netlify.app/)
 
-**Digital Banking Static Page** 
+**Digital Banking Static Page** <br>
 [code](https://github.com/xtralvl/Digital-bank-landing-page) • [live](https://digital-bank-landing-page-xtralvl.netlify.app/)
 
 **Sunnyside Agency Static Page**  
