@@ -17,6 +17,7 @@ Although I prefer <strong>no-code/low-code</strong> tools for speed and efficien
 This helps me understand what’s happening under the hood, make smarter decisions, and build more stable, meaningful, and scalable solutions.
 <br><br>
 I'm currently refreshing my low-/no-code knowledge, learning <strong>SEO</strong>, and honing my <strong>UX/UI skills</strong> to deliver even better user experiences.
+Here you can find some of my projects made without any cms or lowcode/nocode method.
 </p>
 
 </div>
