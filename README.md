@@ -8,7 +8,7 @@
 <h1>🏔️ Hi, I'm <strong>Xtralvl (Roland Szucs)</strong></h1>
 
 <p>
-<strong>UX/UI-focused Website & Webshop Builder</strong> from <strong>Hungary</strong> 🇭🇺  
+<strong>Website & Webshop Builder</strong> from <strong>Hungary</strong> 🇭🇺  
 <br><br>
 I specialize in creating, building, and managing websites and webshops — with a strong focus on usability, clarity, and visual storytelling.  
 I love shaping how a digital product looks, feels, and functions. Whether it’s a brand site, webshop, or content-driven website, I enjoy bringing ideas to life and making them work smoothly.
